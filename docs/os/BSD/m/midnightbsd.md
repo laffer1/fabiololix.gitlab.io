@@ -36,7 +36,7 @@
 | Category              | Desktop |
 | Desktop (default)     |  |
 | Desktop (available)   |  |
-| Source                | <https://midnightbsd.org/cgi-bin/viewvc.cgi/> |
+| Source                | <https://github.com/midnightbsd/src> |
 | Download              | <https://midnightbsd.org/download/> |
 | Release model         | Fixed |
 | Packaging             |  |
